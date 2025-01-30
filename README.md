@@ -4,11 +4,7 @@ Welcome to my **Face Detection Project** using OpenCV! 🎉 This project allows 
 
 ---
 
-## 🚀 Features
-- **Face Detection**: Detects faces in an image with bounding rectangles.
-- **Grayscale Conversion**: Converts the original image to grayscale for better processing.
-- **Customizable Parameters**: You can fine-tune parameters like `scaleFactor` and `minNeighbors` for improved accuracy on your specific image.
-- **User-Friendly**: Just input your image path, and let the program do the rest!
+#
 
 ---
 
